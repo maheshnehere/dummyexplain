@@ -29,7 +29,9 @@ public class Brokenimages {
         System.out.println("Total number of links:::"+ images.size());
 }
 
-        
 
+    public static void main(String[] args) {
+
+    }
 }
 
